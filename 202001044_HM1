@@ -5,7 +5,7 @@ $vi /var/log/messages This is used to open a message file.
 :wq    This command used to exit&save from a file.
 
 
-
+  
 
 #Question 2:Write a shell script to add two numbers?
 #!/bin/bash
