@@ -5,7 +5,7 @@ Spark is a low latency computing and can process data interactively.
 
 
 
-
+ 
 #Question 2:What is Apache Spark?
 Apache Spark is an open-source, distributed processing system used for big data workloads.
 It utilizes in-memory caching, and optimized query execution for fast analytic queries against data of any size.
